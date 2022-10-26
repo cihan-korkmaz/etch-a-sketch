@@ -55,47 +55,47 @@ row1.addEventListener("mouseover", () => {
     row1.style.backgroundColor = "blue";
 });
 row2.addEventListener("mouseover", () => {
-    row2style.backgroundColor = "blue";
+    row2.style.backgroundColor = "blue";
 });
 row3.addEventListener("mouseover", () => {
     row3.style.backgroundColor = "blue";
 });
 row4.addEventListener("mouseover", () => {
-    row1.style.backgroundColor = "blue";
+    row4.style.backgroundColor = "blue";
 });
 row5.addEventListener("mouseover", () => {
-    row1.style.backgroundColor = "blue";
+    row5.style.backgroundColor = "blue";
 });
 row6.addEventListener("mouseover", () => {
-    row1.style.backgroundColor = "blue";
+    row6.style.backgroundColor = "blue";
 });
 row7.addEventListener("mouseover", () => {
-    row1.style.backgroundColor = "blue";
+    row7.style.backgroundColor = "blue";
 });
 row8.addEventListener("mouseover", () => {
-    row1.style.backgroundColor = "blue";
+    row8.style.backgroundColor = "blue";
 });
 row9.addEventListener("mouseover", () => {
-    row1.style.backgroundColor = "blue";
+    row9.style.backgroundColor = "blue";
 });
 row10.addEventListener("mouseover", () => {
-    row1.style.backgroundColor = "blue";
+    row10.style.backgroundColor = "blue";
 });
 row11.addEventListener("mouseover", () => {
-    row1.style.backgroundColor = "blue";
+    row11.style.backgroundColor = "blue";
 });
 row12.addEventListener("mouseover", () => {
-    row1.style.backgroundColor = "blue";
+    row12.style.backgroundColor = "blue";
 });
 row13.addEventListener("mouseover", () => {
-    row1.style.backgroundColor = "blue";
+    row13.style.backgroundColor = "blue";
 });
 row14.addEventListener("mouseover", () => {
-    row1.style.backgroundColor = "blue";
+    row14.style.backgroundColor = "blue";
 });
 row15.addEventListener("mouseover", () => {
-    row1.style.backgroundColor = "blue";
+    row15.style.backgroundColor = "blue";
 });
 row16.addEventListener("mouseover", () => {
-    row1.style.backgroundColor = "blue";
+    row16.style.backgroundColor = "blue";
 });
